@@ -1,4 +1,4 @@
 # Dashboard-for-Sales
 
-Dashboard_for_Sales.twbix - Tableau file, dashboard + story
-Description.pdf - percise description of "Dashboard for sales" project.
+<br>Dashboard_for_Sales.twbix - Tableau file, dashboard + story </br>
+<br>Description.pdf - percise description of "Dashboard for sales" project. </br>
